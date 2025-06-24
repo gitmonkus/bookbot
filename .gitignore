@@ -1,0 +1,13 @@
+/books
+
+# ignore python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# ignore log files
+*.log
+
+# ignore virtual environments
+venv/
+env/
